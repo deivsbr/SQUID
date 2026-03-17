@@ -62,7 +62,7 @@ Depois crie o arquivo mimo.conf também na pasta **etc.**
 ![squid-config](./images/squid-config.png)
 
 ### Conteúdo do arquivo mimo.config
-![squid-config](./images/mimo-config.png)
+![mimo-config](./images/mimo-config.png)
 
 > EXPLICAÇÃO LINHA A LINHA
 > 
@@ -127,9 +127,9 @@ Configuração de Proxy manual → Usar um servidor proxy → Configurar → Ati
 
 Em Endereço IP do proxy insira nome da máquina servidor exemplo ECE334M33SN1 → Porta: 3128.
 
-![squid-config](./images/proxy.png)
+![proxy](./images/proxy.png)
 
-![squid-config](./images/proxyativado.png)
+![proxyativado](./images/proxyativado.png)
 
 ---
 
@@ -137,7 +137,7 @@ Em Endereço IP do proxy insira nome da máquina servidor exemplo ECE334M33SN1 �
 
 Crie o arquivo sites_bloqueados.txt dentro da pasta Squid.
 
-![squid-config](./images/arquivos2.png)
+![arquivos2](./images/arquivos2.png)
 
 O arquivo sites_bloqueados.txt deve conter a lista de sites que serão bloqueados.
 
@@ -146,7 +146,9 @@ dstdomain "c:/squid/sites_bloqueados.txt bloqueia todos as extensões do site.
 dstdomain = domínio de destino
 
 facebook.com
+
 www.facebook.com
+
 m.facebook.com
 
 ---
@@ -155,7 +157,7 @@ m.facebook.com
 
 Acessar gpedit.msc como Administrador.
 
-![squid-config](./images/gpedit.png)
+![gpedit](./images/gpedit.png)
 
 Configuração do Usuário 
 
@@ -167,13 +169,14 @@ Configuração do Usuário
 
 → Visibilidade da Página de Configurações
 
-![squid-config](./images/squid-config.png)
+![bloqueio1](./images/bloqueio1.png)
+![bloqueio](./images/bloqueio.png)
 
 ---
 
 ## 9. PASSO
 
-![image.png](attachment:729b54a9-29e9-401a-accc-e8499639b498:image.png)
+![arquivos](./images/arquivos.png)
 
 O arquivo sites_bloqueados.txt tem todos os sites bloqueados.
 
