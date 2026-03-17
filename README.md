@@ -5,7 +5,7 @@ DESCOMPACTE ESTA PASTA NA RAIZ DO COMPUTADOR (C:)
 
 LOGO APÓS, SIGA OS PASSOS ABAIXO.
 
-DOWNLOAD: [SQUID CONFIG](https://github.com/deivsbr/SQUID/releases/squid-config/squid)
+DOWNLOAD: [SQUID CONFIG](https://github.com/deivsbr/SQUID/releases/squid-config/squid.rar)
 
 ---
 
