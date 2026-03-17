@@ -2,6 +2,7 @@
 PASSO A PASSO PARA CONFIGURAÇÃO DO SQUID NO WINDOWS 11
 
 C:\squid
+     
 │
 ├── bin
 ├── etc
